@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "RaviUdacityProject"
+    },
+    {
+        "ParameterKey": "HealthcheckInterval",
+        "ParameterValue": "10"
+    },
+    {
+        "ParameterKey": "HealthcheckTimeout",
+        "ParameterValue": "8"
+    },
+    {
+        "ParameterKey": "HealthcheckThreshold",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "UnhealthyThreshold",
+        "ParameterValue": "5"
+    }
+]
